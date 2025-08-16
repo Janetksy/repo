@@ -1,0 +1,6 @@
+git init kde
+cd kde
+notepad readme.md
+notepad example.py
+git add .
+git commit -m "This is a first example"
