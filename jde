@@ -3,4 +3,4 @@ cd jde
 notepad readme.md
 notepad example.py
 git add.
-git coommmt -m "This is a first example
+git commit -m "This is a first example
